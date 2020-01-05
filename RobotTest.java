@@ -17,7 +17,7 @@ public class RobotTest
         Robot.setDelay(0.025);
         Lab4.completeBars();
         Draw.pauseUntilMouse();
-        /*Uncomment before turning in
+        Uncomment before turning in
         Robot.load("bars3.txt");
         Robot.setDelay(0.025);
         Lab4.completeBars();
@@ -25,7 +25,7 @@ public class RobotTest
         Robot.load("bars4.txt");
         Robot.setDelay(0.025);
         Lab4.completeBars();
-        Draw.pauseUntilMouse();*/
+        Draw.pauseUntilMouse();
 
         Robot.load("piles1.txt");
         Robot.setDelay(0.025);
@@ -35,7 +35,7 @@ public class RobotTest
         Robot.setDelay(0.025);
         Lab4.combinePiles();
         Draw.pauseUntilMouse();
-        /*Uncomment before turning in
+        Uncomment before turning in
         Robot.load("piles3.txt");
         Robot.setDelay(0.025);
         Lab4.combinePiles();
@@ -43,7 +43,7 @@ public class RobotTest
         Robot.load("piles4.txt");
         Robot.setDelay(0.025);
         Lab4.combinePiles();
-        Draw.pauseUntilMouse();*/
+        Draw.pauseUntilMouse();
 
         Robot.load("connect1.txt");
         Robot.setDelay(0.025);
@@ -54,7 +54,7 @@ public class RobotTest
         Robot.setDelay(0.025);
         Lab4.connectDots();
 
-        /*Uncomment before turning in
+        Uncomment before turning in
         Draw.pauseUntilMouse();
 
         Robot.load("connect3.txt");
@@ -64,7 +64,7 @@ public class RobotTest
 
         Robot.load("connect4.txt");
         Robot.setDelay(0.025);
-        Lab4.connectDots();*/
+        Lab4.connectDots();
 
     }
 }
